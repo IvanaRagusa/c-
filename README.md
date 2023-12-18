@@ -25,6 +25,10 @@ I'm sure that with these two simple rules and a lot of ```ctrl F2``` you won't h
 
 # cpp-modules
 
+### usage
+Note that this project was tested on Linux only. It may run on MacOS with small adjustments to the Makefile.
+You will now be in the correct directory for compilation. Compile with ```make``` and run with ```a.out```
+
 ## Module 00 - [Link](https://github.com/IvanaRagusa/cpp/tree/main/00)
 introduction
 
