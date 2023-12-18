@@ -12,7 +12,8 @@ Result: 100% on all modules
 ### usage: 
 - launch script ``` phyton3 SuperclassGenerate.py ``` or ``` phyton3 InerithedGenerate.py ```
 - insert required classes name
-- the scrpit will ganerate two files, a .cpp file and .hpp file! Enjoy it!
+- the script will ganerate two files, a .cpp file and .hpp file! Enjoy it!
+Tou can find the same script in italian Lenguage!
 
 ## Exam Rank05 - [Link](https://github.com/IvanaRagusa/cpp/tree/main/exam)
 ### tips:
