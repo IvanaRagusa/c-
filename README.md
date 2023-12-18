@@ -17,12 +17,10 @@ Result: 100% on all modules
 ## Exam Rank05 - [Link](https://github.com/IvanaRagusa/cpp/tree/main/exam)
 ### tips:
 To pass the exam successfully, stick to these 2 simple rules to get around the subjets that are not always crystal clear:
-
 1. make every single string you encounter as ``` const string & ``` ;
+2. make all possible methods as constants (except obviously those that modify the      structure such as setters for example), including the pure clone method which will look like this: ``` virtual <Classname> * clone() const = 0 ``` ;
 
-2 make all possible methods as constants (except obviously those that modify the structure such as setters for example), including the pure clone method which will look like this: ``` Class * clone() const = 0 ``` ;
-
-I'm sure that with these two simple rules and a lot of ```ctrl F2``` you won't have any problems!
+I'm sure that with these two simple rules and a lot of ```ctrl F2``` you won't have any problems! Feel free to leave a star if these suggestions were useful to you!!
 
 # cpp-modules
 
