@@ -1,13 +1,19 @@
-# cpp-modules
+
 ## Info
 42 Cursus: c++ modules for learning the language.
 
 Status: finished
 Result: 100% on all modules
-Observations: (null)
-Modules
-Module 00
-Namespace, class, member functions, stdio stream, initialization lists, static, const and lots of basic stuff.
+
+# Extra
+
+## Script - [Link](https://github.com/IvanaRagusa/cpp/tree/main/script)
+2 simple scripts to create Superclass and hinerited class in canonical form
+
+## Exam Rank05 - [Link](https://github.com/IvanaRagusa/cpp/tree/main/exam)
+Exam rank 100% and tips
+
+# cpp-modules
 
 ## Module 00 - [Link](https://github.com/IvanaRagusa/cpp/tree/main/00)
 introduction
