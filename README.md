@@ -9,28 +9,32 @@ Modules
 Module 00
 Namespace, class, member functions, stdio stream, initialization lists, static, const and lots of basic stuff.
 
-## Module 01 - Link: [Testo link](URL)
-Memory allocation, references, pointers to members, switch.
+## Module 00 - [Link](https://github.com/IvanaRagusa/cpp/tree/main/00)
+introduction
 
-## Module 02 - Link: [Testo link](URL)
-Ad-hoc polymorphism, operators overload and orthodox canonical classes.
+## Module 01 - [Link](https://github.com/IvanaRagusa/cpp/tree/main/01)
+memory, pointers and references
 
-## Module 03 - Link: [Testo link](URL)
-Inheritance
+## Module 02 - [Link](https://github.com/IvanaRagusa/cpp/tree/main/02)
+operator overloading
 
-## Module 04 - Link: [Testo link](URL)
-Subtype polymorphism, abstract classes, interfaces.
+## Module 03 - [Link](https://github.com/IvanaRagusa/cpp/tree/main/03)
+inheritance
 
-## Module 05 - Link: [Testo link](URL)
-Repetition and exceptions.
+## Module 04 - [Link](https://github.com/IvanaRagusa/cpp/tree/main/04)
+polymorphism, abstract classes and interfaces
 
-## Module 06 - Link: [Testo link](URL)
-C++ casts.
+## Module 05 - [Link](https://github.com/IvanaRagusa/cpp/tree/main/05)
+try catch and exceptions
 
-## Module 07 - Link: [Testo link](URL)
-C++ templates.
+## Module 06 - [Link](https://github.com/IvanaRagusa/cpp/tree/main/06)
+casts
 
-## Module 08 - Link: [Testo link](URL)
-Templated containers, iterators, algorithms.
+## Module 07 - [Link](https://github.com/IvanaRagusa/cpp/tree/main/07)
+Templates
 
-## Module 09 - Link: [Testo link](URL)
+## Module 08 - [Link](https://github.com/IvanaRagusa/cpp/tree/main/08)
+templated containers, iterators and algorithms
+
+## Module 09 - [Link](https://github.com/IvanaRagusa/cpp/tree/main/09)
+STL
