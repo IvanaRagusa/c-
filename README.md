@@ -9,9 +9,21 @@ Result: 100% on all modules
 
 ## Script - [Link](https://github.com/IvanaRagusa/cpp/tree/main/script)
 2 simple scripts to create Superclass and hinerited class in canonical form
+### usage: 
+- launch script ``` phyton3 SuperclassGenerate.py ``` or ``` phyton3 InerithedGenerate.py ```
+- insert required classes name
+- the scrpit will ganerate two files, a .cpp file and .hpp file! Enjoy it!
 
 ## Exam Rank05 - [Link](https://github.com/IvanaRagusa/cpp/tree/main/exam)
-Exam rank 100% and tips
+Exam rank 100%
+### tips:
+To pass the exam successfully, stick to these 2 simple rules to get around the subjets that are not always crystal clear:
+
+1. make every single string you encounter as ``` const string & ``` ;
+
+2 make all possible methods as constants (except obviously those that modify the structure such as setters for example), including the pure clone method which will look like this: ``` Class * clone() const = 0 ``` ;
+
+I'm sure that with these two simple rules and a lot of ```ctrl F2``` you won't have any problems!
 
 # cpp-modules
 
