@@ -15,7 +15,6 @@ Result: 100% on all modules
 - the scrpit will ganerate two files, a .cpp file and .hpp file! Enjoy it!
 
 ## Exam Rank05 - [Link](https://github.com/IvanaRagusa/cpp/tree/main/exam)
-Exam rank 100%
 ### tips:
 To pass the exam successfully, stick to these 2 simple rules to get around the subjets that are not always crystal clear:
 
